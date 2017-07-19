@@ -7,15 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		895ED9A41F1F46500048E5FA /* arcrandom.png in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9A21F1F46500048E5FA /* arcrandom.png */; };
+		895ED9A51F1F46500048E5FA /* circle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9A31F1F46500048E5FA /* circle.jpg */; };
+		895ED9A91F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9A61F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 */; };
+		895ED9AB1F1F4D7F0048E5FA /* 喜欢你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9A81F1F4D7F0048E5FA /* 喜欢你.mp3 */; };
+		895ED9AD1F1F52420048E5FA /* Just One Last Dance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9AC1F1F52420048E5FA /* Just One Last Dance.mp3 */; };
+		895ED9AF1F1F5AFC0048E5FA /* backMusic.png in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9AE1F1F5AFC0048E5FA /* backMusic.png */; };
 		89EAAEE11F1DA74900291433 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAEE01F1DA74900291433 /* main.m */; };
 		89EAAEE41F1DA74900291433 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAEE31F1DA74900291433 /* AppDelegate.m */; };
 		89EAAEE71F1DA74900291433 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAEE61F1DA74900291433 /* ViewController.m */; };
 		89EAAEEA1F1DA74900291433 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEE81F1DA74900291433 /* Main.storyboard */; };
 		89EAAEEC1F1DA74900291433 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEEB1F1DA74900291433 /* Assets.xcassets */; };
 		89EAAEEF1F1DA74900291433 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEED1F1DA74900291433 /* LaunchScreen.storyboard */; };
+		89EAAEFF1F1DAAC800291433 /* 刚好遇见你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEFA1F1DAAC800291433 /* 刚好遇见你.mp3 */; };
+		89EAAF001F1DAAC800291433 /* 如果你是我的传说.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEFB1F1DAAC800291433 /* 如果你是我的传说.mp3 */; };
+		89EAAF011F1DAAC800291433 /* 绽放.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEFC1F1DAAC800291433 /* 绽放.mp3 */; };
+		89EAAF041F1DAC0700291433 /* ZJJPlayTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAF031F1DAC0700291433 /* ZJJPlayTableViewController.m */; };
+		89EAAF081F1DBBA600291433 /* ZJJGetFileTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAF071F1DBBA600291433 /* ZJJGetFileTool.m */; };
+		89EAAF111F1DE08A00291433 /* last.png in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAF0D1F1DE08A00291433 /* last.png */; };
+		89EAAF121F1DE08A00291433 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAF0E1F1DE08A00291433 /* next.png */; };
+		89EAAF131F1DE08A00291433 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAF0F1F1DE08A00291433 /* pause.png */; };
+		89EAAF141F1DE08A00291433 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAF101F1DE08A00291433 /* play.png */; };
+		89EAAF181F1DE0BF00291433 /* ZJJPlayPauseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAF161F1DE0BF00291433 /* ZJJPlayPauseViewController.m */; };
+		89EAAF191F1DE0BF00291433 /* ZJJPlayPauseViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAF171F1DE0BF00291433 /* ZJJPlayPauseViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		895ED9A21F1F46500048E5FA /* arcrandom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arcrandom.png; sourceTree = "<group>"; };
+		895ED9A31F1F46500048E5FA /* circle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = circle.jpg; sourceTree = "<group>"; };
+		895ED9A61F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "爱笑的眼睛.mp3"; sourceTree = "<group>"; };
+		895ED9A81F1F4D7F0048E5FA /* 喜欢你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "喜欢你.mp3"; sourceTree = "<group>"; };
+		895ED9AC1F1F52420048E5FA /* Just One Last Dance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Just One Last Dance.mp3"; sourceTree = "<group>"; };
+		895ED9AE1F1F5AFC0048E5FA /* backMusic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backMusic.png; sourceTree = "<group>"; };
 		89EAAEDC1F1DA74900291433 /* ZJJAudioPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZJJAudioPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89EAAEE01F1DA74900291433 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		89EAAEE21F1DA74900291433 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +49,20 @@
 		89EAAEEB1F1DA74900291433 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		89EAAEEE1F1DA74900291433 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89EAAEF01F1DA74900291433 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89EAAEFA1F1DAAC800291433 /* 刚好遇见你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "刚好遇见你.mp3"; sourceTree = "<group>"; };
+		89EAAEFB1F1DAAC800291433 /* 如果你是我的传说.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "如果你是我的传说.mp3"; sourceTree = "<group>"; };
+		89EAAEFC1F1DAAC800291433 /* 绽放.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "绽放.mp3"; sourceTree = "<group>"; };
+		89EAAF021F1DAC0700291433 /* ZJJPlayTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJJPlayTableViewController.h; sourceTree = "<group>"; };
+		89EAAF031F1DAC0700291433 /* ZJJPlayTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJJPlayTableViewController.m; sourceTree = "<group>"; };
+		89EAAF061F1DBBA600291433 /* ZJJGetFileTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJJGetFileTool.h; sourceTree = "<group>"; };
+		89EAAF071F1DBBA600291433 /* ZJJGetFileTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJJGetFileTool.m; sourceTree = "<group>"; };
+		89EAAF0D1F1DE08A00291433 /* last.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = last.png; sourceTree = "<group>"; };
+		89EAAF0E1F1DE08A00291433 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		89EAAF0F1F1DE08A00291433 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		89EAAF101F1DE08A00291433 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		89EAAF151F1DE0BF00291433 /* ZJJPlayPauseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJJPlayPauseViewController.h; sourceTree = "<group>"; };
+		89EAAF161F1DE0BF00291433 /* ZJJPlayPauseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJJPlayPauseViewController.m; sourceTree = "<group>"; };
+		89EAAF171F1DE0BF00291433 /* ZJJPlayPauseViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZJJPlayPauseViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +95,10 @@
 		89EAAEDE1F1DA74900291433 /* ZJJAudioPlay */ = {
 			isa = PBXGroup;
 			children = (
+				89EAAF0C1F1DE08A00291433 /* Images */,
+				89EAAF051F1DBA0F00291433 /* Tool */,
+				89EAAEF61F1DAAC800291433 /* Controller */,
+				89EAAEF71F1DAAC800291433 /* Music */,
 				89EAAEE21F1DA74900291433 /* AppDelegate.h */,
 				89EAAEE31F1DA74900291433 /* AppDelegate.m */,
 				89EAAEE51F1DA74900291433 /* ViewController.h */,
@@ -77,6 +118,54 @@
 				89EAAEE01F1DA74900291433 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		89EAAEF61F1DAAC800291433 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				89EAAF021F1DAC0700291433 /* ZJJPlayTableViewController.h */,
+				89EAAF031F1DAC0700291433 /* ZJJPlayTableViewController.m */,
+				89EAAF151F1DE0BF00291433 /* ZJJPlayPauseViewController.h */,
+				89EAAF161F1DE0BF00291433 /* ZJJPlayPauseViewController.m */,
+				89EAAF171F1DE0BF00291433 /* ZJJPlayPauseViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		89EAAEF71F1DAAC800291433 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				895ED9AC1F1F52420048E5FA /* Just One Last Dance.mp3 */,
+				895ED9A61F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 */,
+				895ED9A81F1F4D7F0048E5FA /* 喜欢你.mp3 */,
+				89EAAEFA1F1DAAC800291433 /* 刚好遇见你.mp3 */,
+				89EAAEFB1F1DAAC800291433 /* 如果你是我的传说.mp3 */,
+				89EAAEFC1F1DAAC800291433 /* 绽放.mp3 */,
+			);
+			path = Music;
+			sourceTree = "<group>";
+		};
+		89EAAF051F1DBA0F00291433 /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+				89EAAF061F1DBBA600291433 /* ZJJGetFileTool.h */,
+				89EAAF071F1DBBA600291433 /* ZJJGetFileTool.m */,
+			);
+			path = Tool;
+			sourceTree = "<group>";
+		};
+		89EAAF0C1F1DE08A00291433 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				895ED9AE1F1F5AFC0048E5FA /* backMusic.png */,
+				895ED9A21F1F46500048E5FA /* arcrandom.png */,
+				895ED9A31F1F46500048E5FA /* circle.jpg */,
+				89EAAF0D1F1DE08A00291433 /* last.png */,
+				89EAAF0E1F1DE08A00291433 /* next.png */,
+				89EAAF0F1F1DE08A00291433 /* pause.png */,
+				89EAAF101F1DE08A00291433 /* play.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +227,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89EAAEFF1F1DAAC800291433 /* 刚好遇见你.mp3 in Resources */,
+				895ED9A41F1F46500048E5FA /* arcrandom.png in Resources */,
+				895ED9A51F1F46500048E5FA /* circle.jpg in Resources */,
+				895ED9A91F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 in Resources */,
+				895ED9AF1F1F5AFC0048E5FA /* backMusic.png in Resources */,
+				89EAAF111F1DE08A00291433 /* last.png in Resources */,
 				89EAAEEF1F1DA74900291433 /* LaunchScreen.storyboard in Resources */,
+				89EAAF131F1DE08A00291433 /* pause.png in Resources */,
+				895ED9AB1F1F4D7F0048E5FA /* 喜欢你.mp3 in Resources */,
+				89EAAF141F1DE08A00291433 /* play.png in Resources */,
 				89EAAEEC1F1DA74900291433 /* Assets.xcassets in Resources */,
 				89EAAEEA1F1DA74900291433 /* Main.storyboard in Resources */,
+				89EAAF121F1DE08A00291433 /* next.png in Resources */,
+				895ED9AD1F1F52420048E5FA /* Just One Last Dance.mp3 in Resources */,
+				89EAAF191F1DE0BF00291433 /* ZJJPlayPauseViewController.xib in Resources */,
+				89EAAF001F1DAAC800291433 /* 如果你是我的传说.mp3 in Resources */,
+				89EAAF011F1DAAC800291433 /* 绽放.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,8 +254,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89EAAF081F1DBBA600291433 /* ZJJGetFileTool.m in Sources */,
 				89EAAEE71F1DA74900291433 /* ViewController.m in Sources */,
 				89EAAEE41F1DA74900291433 /* AppDelegate.m in Sources */,
+				89EAAF041F1DAC0700291433 /* ZJJPlayTableViewController.m in Sources */,
+				89EAAF181F1DE0BF00291433 /* ZJJPlayPauseViewController.m in Sources */,
 				89EAAEE11F1DA74900291433 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -314,6 +420,7 @@
 				89EAAEF51F1DA74900291433 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
