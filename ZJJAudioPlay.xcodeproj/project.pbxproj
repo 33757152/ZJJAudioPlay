@@ -7,11 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8916A2F51F1F65C70093B672 /* 爱笑的眼睛.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2E81F1F65C70093B672 /* 爱笑的眼睛.mp3 */; };
+		8916A2F61F1F65C70093B672 /* 等你等了那么久.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2E91F1F65C70093B672 /* 等你等了那么久.mp3 */; };
+		8916A2F71F1F65C70093B672 /* 刚好遇见你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2EA1F1F65C70093B672 /* 刚好遇见你.mp3 */; };
+		8916A2F81F1F65C70093B672 /* 归.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2EB1F1F65C70093B672 /* 归.mp3 */; };
+		8916A2F91F1F65C70093B672 /* 婚礼进行曲.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2EC1F1F65C70093B672 /* 婚礼进行曲.mp3 */; };
+		8916A2FA1F1F65C70093B672 /* 美丽的神话.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2ED1F1F65C70093B672 /* 美丽的神话.mp3 */; };
+		8916A2FB1F1F65C70093B672 /* 如果你是我的传说.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2EE1F1F65C70093B672 /* 如果你是我的传说.mp3 */; };
+		8916A2FC1F1F65C70093B672 /* 殇雪.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2EF1F1F65C70093B672 /* 殇雪.mp3 */; };
+		8916A2FD1F1F65C70093B672 /* 喜欢你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2F01F1F65C70093B672 /* 喜欢你.mp3 */; };
+		8916A2FE1F1F65C70093B672 /* 洋葱.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2F11F1F65C70093B672 /* 洋葱.mp3 */; };
+		8916A2FF1F1F65C70093B672 /* 绽放.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2F21F1F65C70093B672 /* 绽放.mp3 */; };
+		8916A3001F1F65C70093B672 /* Just One Last Dance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2F31F1F65C70093B672 /* Just One Last Dance.mp3 */; };
+		8916A3011F1F65C70093B672 /* Seasons In The Sun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8916A2F41F1F65C70093B672 /* Seasons In The Sun.mp3 */; };
 		895ED9A41F1F46500048E5FA /* arcrandom.png in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9A21F1F46500048E5FA /* arcrandom.png */; };
 		895ED9A51F1F46500048E5FA /* circle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9A31F1F46500048E5FA /* circle.jpg */; };
-		895ED9A91F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9A61F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 */; };
-		895ED9AB1F1F4D7F0048E5FA /* 喜欢你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9A81F1F4D7F0048E5FA /* 喜欢你.mp3 */; };
-		895ED9AD1F1F52420048E5FA /* Just One Last Dance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9AC1F1F52420048E5FA /* Just One Last Dance.mp3 */; };
 		895ED9AF1F1F5AFC0048E5FA /* backMusic.png in Resources */ = {isa = PBXBuildFile; fileRef = 895ED9AE1F1F5AFC0048E5FA /* backMusic.png */; };
 		89EAAEE11F1DA74900291433 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAEE01F1DA74900291433 /* main.m */; };
 		89EAAEE41F1DA74900291433 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAEE31F1DA74900291433 /* AppDelegate.m */; };
@@ -19,9 +29,6 @@
 		89EAAEEA1F1DA74900291433 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEE81F1DA74900291433 /* Main.storyboard */; };
 		89EAAEEC1F1DA74900291433 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEEB1F1DA74900291433 /* Assets.xcassets */; };
 		89EAAEEF1F1DA74900291433 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEED1F1DA74900291433 /* LaunchScreen.storyboard */; };
-		89EAAEFF1F1DAAC800291433 /* 刚好遇见你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEFA1F1DAAC800291433 /* 刚好遇见你.mp3 */; };
-		89EAAF001F1DAAC800291433 /* 如果你是我的传说.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEFB1F1DAAC800291433 /* 如果你是我的传说.mp3 */; };
-		89EAAF011F1DAAC800291433 /* 绽放.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAEFC1F1DAAC800291433 /* 绽放.mp3 */; };
 		89EAAF041F1DAC0700291433 /* ZJJPlayTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAF031F1DAC0700291433 /* ZJJPlayTableViewController.m */; };
 		89EAAF081F1DBBA600291433 /* ZJJGetFileTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 89EAAF071F1DBBA600291433 /* ZJJGetFileTool.m */; };
 		89EAAF111F1DE08A00291433 /* last.png in Resources */ = {isa = PBXBuildFile; fileRef = 89EAAF0D1F1DE08A00291433 /* last.png */; };
@@ -33,11 +40,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8916A2E81F1F65C70093B672 /* 爱笑的眼睛.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "爱笑的眼睛.mp3"; sourceTree = "<group>"; };
+		8916A2E91F1F65C70093B672 /* 等你等了那么久.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "等你等了那么久.mp3"; sourceTree = "<group>"; };
+		8916A2EA1F1F65C70093B672 /* 刚好遇见你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "刚好遇见你.mp3"; sourceTree = "<group>"; };
+		8916A2EB1F1F65C70093B672 /* 归.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "归.mp3"; sourceTree = "<group>"; };
+		8916A2EC1F1F65C70093B672 /* 婚礼进行曲.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "婚礼进行曲.mp3"; sourceTree = "<group>"; };
+		8916A2ED1F1F65C70093B672 /* 美丽的神话.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "美丽的神话.mp3"; sourceTree = "<group>"; };
+		8916A2EE1F1F65C70093B672 /* 如果你是我的传说.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "如果你是我的传说.mp3"; sourceTree = "<group>"; };
+		8916A2EF1F1F65C70093B672 /* 殇雪.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "殇雪.mp3"; sourceTree = "<group>"; };
+		8916A2F01F1F65C70093B672 /* 喜欢你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "喜欢你.mp3"; sourceTree = "<group>"; };
+		8916A2F11F1F65C70093B672 /* 洋葱.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "洋葱.mp3"; sourceTree = "<group>"; };
+		8916A2F21F1F65C70093B672 /* 绽放.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "绽放.mp3"; sourceTree = "<group>"; };
+		8916A2F31F1F65C70093B672 /* Just One Last Dance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Just One Last Dance.mp3"; sourceTree = "<group>"; };
+		8916A2F41F1F65C70093B672 /* Seasons In The Sun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Seasons In The Sun.mp3"; sourceTree = "<group>"; };
 		895ED9A21F1F46500048E5FA /* arcrandom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arcrandom.png; sourceTree = "<group>"; };
 		895ED9A31F1F46500048E5FA /* circle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = circle.jpg; sourceTree = "<group>"; };
-		895ED9A61F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "爱笑的眼睛.mp3"; sourceTree = "<group>"; };
-		895ED9A81F1F4D7F0048E5FA /* 喜欢你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "喜欢你.mp3"; sourceTree = "<group>"; };
-		895ED9AC1F1F52420048E5FA /* Just One Last Dance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Just One Last Dance.mp3"; sourceTree = "<group>"; };
 		895ED9AE1F1F5AFC0048E5FA /* backMusic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backMusic.png; sourceTree = "<group>"; };
 		89EAAEDC1F1DA74900291433 /* ZJJAudioPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZJJAudioPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89EAAEE01F1DA74900291433 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -49,9 +66,6 @@
 		89EAAEEB1F1DA74900291433 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		89EAAEEE1F1DA74900291433 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89EAAEF01F1DA74900291433 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		89EAAEFA1F1DAAC800291433 /* 刚好遇见你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "刚好遇见你.mp3"; sourceTree = "<group>"; };
-		89EAAEFB1F1DAAC800291433 /* 如果你是我的传说.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "如果你是我的传说.mp3"; sourceTree = "<group>"; };
-		89EAAEFC1F1DAAC800291433 /* 绽放.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "绽放.mp3"; sourceTree = "<group>"; };
 		89EAAF021F1DAC0700291433 /* ZJJPlayTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJJPlayTableViewController.h; sourceTree = "<group>"; };
 		89EAAF031F1DAC0700291433 /* ZJJPlayTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJJPlayTableViewController.m; sourceTree = "<group>"; };
 		89EAAF061F1DBBA600291433 /* ZJJGetFileTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJJGetFileTool.h; sourceTree = "<group>"; };
@@ -135,12 +149,19 @@
 		89EAAEF71F1DAAC800291433 /* Music */ = {
 			isa = PBXGroup;
 			children = (
-				895ED9AC1F1F52420048E5FA /* Just One Last Dance.mp3 */,
-				895ED9A61F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 */,
-				895ED9A81F1F4D7F0048E5FA /* 喜欢你.mp3 */,
-				89EAAEFA1F1DAAC800291433 /* 刚好遇见你.mp3 */,
-				89EAAEFB1F1DAAC800291433 /* 如果你是我的传说.mp3 */,
-				89EAAEFC1F1DAAC800291433 /* 绽放.mp3 */,
+				8916A2E81F1F65C70093B672 /* 爱笑的眼睛.mp3 */,
+				8916A2E91F1F65C70093B672 /* 等你等了那么久.mp3 */,
+				8916A2EA1F1F65C70093B672 /* 刚好遇见你.mp3 */,
+				8916A2EB1F1F65C70093B672 /* 归.mp3 */,
+				8916A2EC1F1F65C70093B672 /* 婚礼进行曲.mp3 */,
+				8916A2ED1F1F65C70093B672 /* 美丽的神话.mp3 */,
+				8916A2EE1F1F65C70093B672 /* 如果你是我的传说.mp3 */,
+				8916A2EF1F1F65C70093B672 /* 殇雪.mp3 */,
+				8916A2F01F1F65C70093B672 /* 喜欢你.mp3 */,
+				8916A2F11F1F65C70093B672 /* 洋葱.mp3 */,
+				8916A2F21F1F65C70093B672 /* 绽放.mp3 */,
+				8916A2F31F1F65C70093B672 /* Just One Last Dance.mp3 */,
+				8916A2F41F1F65C70093B672 /* Seasons In The Sun.mp3 */,
 			);
 			path = Music;
 			sourceTree = "<group>";
@@ -227,23 +248,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89EAAEFF1F1DAAC800291433 /* 刚好遇见你.mp3 in Resources */,
+				8916A2F61F1F65C70093B672 /* 等你等了那么久.mp3 in Resources */,
+				8916A2F51F1F65C70093B672 /* 爱笑的眼睛.mp3 in Resources */,
 				895ED9A41F1F46500048E5FA /* arcrandom.png in Resources */,
+				8916A2FD1F1F65C70093B672 /* 喜欢你.mp3 in Resources */,
 				895ED9A51F1F46500048E5FA /* circle.jpg in Resources */,
-				895ED9A91F1F4D7F0048E5FA /* 爱笑的眼睛.mp3 in Resources */,
+				8916A2FB1F1F65C70093B672 /* 如果你是我的传说.mp3 in Resources */,
 				895ED9AF1F1F5AFC0048E5FA /* backMusic.png in Resources */,
 				89EAAF111F1DE08A00291433 /* last.png in Resources */,
+				8916A2FC1F1F65C70093B672 /* 殇雪.mp3 in Resources */,
+				8916A2F91F1F65C70093B672 /* 婚礼进行曲.mp3 in Resources */,
 				89EAAEEF1F1DA74900291433 /* LaunchScreen.storyboard in Resources */,
+				8916A2FF1F1F65C70093B672 /* 绽放.mp3 in Resources */,
 				89EAAF131F1DE08A00291433 /* pause.png in Resources */,
-				895ED9AB1F1F4D7F0048E5FA /* 喜欢你.mp3 in Resources */,
+				8916A2F71F1F65C70093B672 /* 刚好遇见你.mp3 in Resources */,
+				8916A2FE1F1F65C70093B672 /* 洋葱.mp3 in Resources */,
 				89EAAF141F1DE08A00291433 /* play.png in Resources */,
 				89EAAEEC1F1DA74900291433 /* Assets.xcassets in Resources */,
 				89EAAEEA1F1DA74900291433 /* Main.storyboard in Resources */,
+				8916A2F81F1F65C70093B672 /* 归.mp3 in Resources */,
 				89EAAF121F1DE08A00291433 /* next.png in Resources */,
-				895ED9AD1F1F52420048E5FA /* Just One Last Dance.mp3 in Resources */,
 				89EAAF191F1DE0BF00291433 /* ZJJPlayPauseViewController.xib in Resources */,
-				89EAAF001F1DAAC800291433 /* 如果你是我的传说.mp3 in Resources */,
-				89EAAF011F1DAAC800291433 /* 绽放.mp3 in Resources */,
+				8916A3001F1F65C70093B672 /* Just One Last Dance.mp3 in Resources */,
+				8916A3011F1F65C70093B672 /* Seasons In The Sun.mp3 in Resources */,
+				8916A2FA1F1F65C70093B672 /* 美丽的神话.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
